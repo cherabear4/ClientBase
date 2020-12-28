@@ -1,3 +1,7 @@
+tldr (open the build.grade file with intellij)
+
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
